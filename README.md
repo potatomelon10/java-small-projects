@@ -1,5 +1,7 @@
 # java-small-projects
 Some small projects in Java.
-Equations -> In Progress
-DirectedGraphs -> In Progress
-Polynomial -> In Progress
+|Project|Status|
+|_______|______|
+|Equations|In Progress|
+|DirectedGraphs|In Progress|
+|Polynomial|In Progress|
