@@ -1,5 +1,7 @@
 # java-small-projects
+
 Some small projects in Java.
+
 |Project|Status|
 |-------|------|
 |Equations|In Progress|
